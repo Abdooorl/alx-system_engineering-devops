@@ -1,1 +1,1 @@
-pwd is the script that print the absolute pathway of the working directory
+pwd is the script used to print absolute pathway on current working directory
